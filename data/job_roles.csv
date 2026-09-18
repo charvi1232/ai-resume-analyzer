@@ -1,0 +1,11 @@
+role,required_skills
+Data Analyst,"Python,SQL,Pandas,NumPy,Matplotlib,Data Analysis,Data Visualization,Statistics,Excel,Power BI"
+Machine Learning Engineer,"Python,SQL,Machine Learning,Scikit-learn,NumPy,Pandas,Mathematics,Statistics,TensorFlow,Git"
+AI Engineer,"Python,Machine Learning,Deep Learning,Artificial Intelligence,TensorFlow,PyTorch,NLP,Computer Vision,Git,SQL"
+NLP Engineer,"Python,NLP,Natural Language Processing,Machine Learning,Deep Learning,TensorFlow,PyTorch,SQL,Git,Regex"
+Computer Vision Engineer,"Python,Computer Vision,OpenCV,Deep Learning,CNN,TensorFlow,PyTorch,Machine Learning,NumPy,Git"
+Software Developer,"Python,Java,C++,Data Structures,Algorithms,OOP,DBMS,SQL,Git,REST API"
+Full Stack Developer,"HTML,CSS,JavaScript,React.js,Node.js,Python,Flask,SQL,Git,REST API"
+Data Scientist,"Python,SQL,Pandas,NumPy,Matplotlib,Scikit-learn,Machine Learning,Data Science,Statistics,Data Visualization"
+Backend Developer,"Python,Java,Flask,Django,FastAPI,SQL,DBMS,REST API,Git,API"
+AI/ML Developer,"Python,Artificial Intelligence,Machine Learning,Deep Learning,Scikit-learn,TensorFlow,PyTorch,NLP,Git,SQL"

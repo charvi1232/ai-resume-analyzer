@@ -1,0 +1,11 @@
+test_case,description,expected_result,status
+TC01,Upload a valid PDF resume,Resume text should be extracted successfully,Pass
+TC02,Upload a valid DOCX resume,Resume text should be extracted successfully,Pass
+TC03,Detect technical skills from resume,Relevant technical skills should be displayed,Pass
+TC04,Compare resume with predefined job roles,Match scores should be calculated for all roles,Pass
+TC05,Display top 3 job roles,Three roles with highest match scores should be displayed,Pass
+TC06,Identify missing skills,Skills required by selected role but absent from resume should be displayed,Pass
+TC07,Generate learning roadmap,Learning steps should be generated for missing skills,Pass
+TC08,Analyze a custom job description,JD match score and skill gaps should be displayed,Pass
+TC09,Upload unsupported file type,Application should reject unsupported file formats,Pass
+TC10,Analyze JD without detectable skills,Application should handle the input without crashing,Pass  
